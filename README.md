@@ -7,7 +7,11 @@ Please execute the javascript classes to test the login page and to run the diff
 - Install Cypress IO from https://docs.cypress.io/guides/getting-started/installing-cypress
 - Open aplication on local, explained here: https://docs.cypress.io/guides/getting-started/opening-the-app
 - Go to your localhost server to check all samples and your E2E script in this case you need to copy the next file which is the test script where all the test cases are placed:
-  *XYZBanktTests.cy.js* copy this file to the e2e folder of your cypress installation 
+  *CustomerPageTests.cy.js*
+  *HomePageTests.cy.js*
+  *ManagerPageTests.cy.js*
+  *Pages* folder
+   copy the all files structure to the e2e folder of your cypress installation 
   
 For references check the next page https://docs.cypress.io/guides/end-to-end-testing/testing-your-app
 
